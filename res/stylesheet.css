@@ -1,0 +1,9 @@
+#mainListView {
+    -fx-setPrefHeight: 100px;
+    -fx-setPrefWidth: 50px;
+}
+
+#textArea {
+    -fx-background-colour: #800000;
+    -fx-text-fill: #000000;
+}
